@@ -1,0 +1,4 @@
+# PDF w/ citations
+pandoc -H options.sty -S -o main.pdf --filter pandoc-citeproc main.md
+
+# reveal.js slides

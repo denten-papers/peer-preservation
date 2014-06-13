@@ -1,0 +1,1 @@
+* Potential paper on Bogdanov/Bataille and collective labor as showcasing a new direction of the left related to peer production. Talking about labor generally and also bring in anarchists like Kropotkin. Dennis also noted *democratic technics.*
