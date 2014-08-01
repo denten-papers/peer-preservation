@@ -68,7 +68,7 @@ But, being a single-source, cyberlocker-based service, *Gigapedia* failed to lev
 ### Rise of Aleph
 In parallel with the development of *Gigapedia* / *library.nu*, Russian enthusiasts started work on a meta-library of sorts, under the name of Aleph. Records of Aleph's activity go back at least as far as 2009. Colloquially known as "prospectors," the volunteer members of the Aleph community began by aggregating library collections widely available on the gray market, with an emphasis on academic and technical literature in Russian and English. A similar project (FB) congealed around fiction.
 
-![DVD copy of "Traum's library" advertising "more than 167,000 books" in fb2 format. Similar DVDs sell for around 1,000 RUB ($25-30 US) on the streets of Moscow.](figures/figure-2.jpg)
+![DVD case cover of "Traum's library" advertising "more than 167,000 books" in fb2 format. Similar DVDs sell for around 1,000 RUB ($25-30 US) on the streets of Moscow.](figures/figure-2.jpg)
 
 At its inception, Aleph compiled several "home-grown" archives:
 
