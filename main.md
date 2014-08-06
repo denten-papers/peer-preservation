@@ -1,7 +1,7 @@
 ---
 title: Book Piracy as Peer Preservation
 bibliography: bib.bib
-authors: Dennis Tenen, Maxwell Foxman
+author: Dennis Tenen, Maxwell Foxman
 
 ---
 
@@ -126,7 +126,7 @@ Yet, *Aleph* is also patently a library. Its work can and should be viewed in th
 
 The history public libraries in general (digital or otherwise) is closely connected to private book collection. Just as many public libraries have roots in royal and estate archives, *Aleph* has its roots in private digital amassments, like the libraries of Moshkov and Traum. Private The very idea of collecting, traditional collections signify material wealth. In the digital realm, where the cost of acquisition of virtual goods is close to zero, the collection points rather to the social (that is to say, symbolic) capital of the collector, capital gained within a framework of a specific economy of exchange. In this way, the top book collectors on RR (which serves as a sort of an "acquisition branch" for *Aleph*) "make a name" for themselves by being particularly active members of the community. Statistics about the date of their joining, their upload and download ratios, and number of "releases" are readily available and treated with reverence and respect by other, less experienced peers.
 
-[^LNSTU]: On the free and public library movement in England and the United States see @greenwood_public_1890, @allen_dedicatory_1889. To read more about the history of free and public library movements in Russia see @stuart_creating_1994; @stuart_evolution_1994; @stuart_ennobling_1998.
+[^LNSTU]: On the free and public library movement in England and the United States see @greenwood_public_1890, @allen_dedicatory_1889. To read more about the history of free and public library movements in Russia see @stuart_evolution_1994; @stuart_creating_1994; @stuart_ennobling_1998.
 
 According to a question and answer sessions with an RR representative, RR is not particularly friendly to new users.^[http://s\*.d\*.ru/comments/508985/] In fact, what differentiates RR from sites like *Pirate Bay* is exactly "the quality of moderation." Unlike *Pirate Bay*, RR sees itself as a "media library," where content is "organized and properly shelved." To produce an acceptable book "release" one needs to create a package of files, which includes well-formatted meta-data (following strict stylistic rules) in the header, name of the book, an image of its cover, the year of release, author, genre, publisher, format, language, a required description, and screenshots of a sample page. The files must be named properly, be "of the same kind" (that is belong to the same collection), and be of the right size. Self-made scans are discouraged and governed by a 1,000-word instruction manual. Scanned books must have a clear attribution to the releaser responsible for scanning and processing. More than that, the guidelines indicate that smaller releases should be expected to be "absorbed" into larger ones. In this way, a single novel by Charles Dickens can and will be absorbed into his collected works, which might further be absorbed into "Novels of 19th Century," and then into "Foreign Fiction." According to the rules, the collection doing the absorbing must be "at least 50% larger than the collection it is absorbing." Releases are further governed by a subset or rules particular to the forum subsections (e.g. journals, fiction, documentation, service manuals, etc.).^[RR/forum/viewtopic.php?t=1590026]
 
