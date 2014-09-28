@@ -1,2 +1,0 @@
-
-pandoc -t html5 --template=reveal.js/template.reveal.js --standalone --section-divs --variable theme=default --variable transition=concave test.md -o slides.html
